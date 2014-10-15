@@ -12,7 +12,10 @@ Resources Used:
 Credits:
 --------
 Forked from [webadelic/Comming-Soon-Page] (https://github.com/webadelic/Comming-Soon-Page)
+<<<<<<< HEAD
 
+=======
+>>>>>>> d0446cab43172486b408810106b7a40db683e6d2
 More info [Tutorial: Create A Countdown & Signup Coming Soon Page](http://designwoop.com/?p=13227 "Tutorial: Create A Countdown & Signup Coming Soon Page")
 
 
