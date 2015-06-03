@@ -1,7 +1,7 @@
 Northpass-Comming-Soon-Page
 =================
 
-A simple coming soon page for northpass.us
+A simple coming soon page for northpass.technology
 
 Resources Used:
 --------
